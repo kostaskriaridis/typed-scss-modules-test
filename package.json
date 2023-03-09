@@ -1,0 +1,15 @@
+{
+  "name": "typed-scss-modules-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gen": "typed-scss-modules ./src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.58.3",
+    "typed-scss-modules": "^7.0.2"
+  }
+}

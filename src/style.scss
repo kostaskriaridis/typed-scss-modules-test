@@ -1,0 +1,13 @@
+.root {
+  animation: scale-animation 1.4s ease-in-out;
+}
+
+@keyframes scale-animation {
+  0% {
+    transform: scale(0);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
